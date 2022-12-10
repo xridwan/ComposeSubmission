@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Home Guitar</string>
+    <string name="menu_product">Product</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_about">About</string>
+    <string name="success_order">Purchase order success, please check your email to download your invoice</string>
+    <string name="total">Total</string>
+    <string name="name">Ridwan</string>
+    <string name="email">ridwan.coustic@gmail.com</string>
+    <string name="pay">Pay</string>
+    <string name="title_name">Name</string>
+    <string name="title_no_rek">No. Rek</string>
+    <string name="title_email">Email</string>
+    <string name="title_confirm">Payment Confirm</string>
+    <string name="message_share">Discount for this, let\'s checkout now!!</string>
+</resources>
