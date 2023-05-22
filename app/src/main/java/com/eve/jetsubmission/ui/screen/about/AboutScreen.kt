@@ -1,4 +1,4 @@
-package com.eve.jetsubmission.ui.sreen.about
+package com.eve.jetsubmission.ui.screen.about
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.border

@@ -1,4 +1,4 @@
-package com.eve.jetsubmission.ui.sreen.detail
+package com.eve.jetsubmission.ui.screen.detail
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
@@ -18,6 +18,8 @@ class DetailViewModel(
         MutableStateFlow(UiState.Loading)
     val uiState: StateFlow<UiState<OrderProduct>>
         get() = _uiState
+
+    val data = repository.getAllProducts()
 
     fun getProductById(productId: Int) {
         viewModelScope.launch {

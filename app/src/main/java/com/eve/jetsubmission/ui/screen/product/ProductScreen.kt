@@ -1,4 +1,4 @@
-package com.eve.jetsubmission.ui.sreen.product
+package com.eve.jetsubmission.ui.screen.product
 
 import android.util.Log
 import androidx.compose.foundation.ExperimentalFoundationApi

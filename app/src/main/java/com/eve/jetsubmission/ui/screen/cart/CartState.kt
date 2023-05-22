@@ -1,4 +1,4 @@
-package com.eve.jetsubmission.ui.sreen.cart
+package com.eve.jetsubmission.ui.screen.cart
 
 import com.eve.jetsubmission.model.OrderProduct
 

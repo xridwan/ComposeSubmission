@@ -27,11 +27,11 @@ import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.eve.jetsubmission.ui.navigation.NavigationItem
 import com.eve.jetsubmission.ui.navigation.Screen
-import com.eve.jetsubmission.ui.sreen.about.AboutScreen
-import com.eve.jetsubmission.ui.sreen.cart.CartScreen
-import com.eve.jetsubmission.ui.sreen.confirm.ConfirmScreen
-import com.eve.jetsubmission.ui.sreen.detail.DetailScreen
-import com.eve.jetsubmission.ui.sreen.product.ProductScreen
+import com.eve.jetsubmission.ui.screen.about.AboutScreen
+import com.eve.jetsubmission.ui.screen.cart.CartScreen
+import com.eve.jetsubmission.ui.screen.confirm.ConfirmScreen
+import com.eve.jetsubmission.ui.screen.detail.DetailScreen
+import com.eve.jetsubmission.ui.screen.product.ProductScreen
 import com.eve.jetsubmission.ui.theme.JetSubmissionTheme
 import com.eve.jetsubmission.utils.showToast
 import kotlinx.coroutines.delay

@@ -1,4 +1,4 @@
-package com.eve.jetsubmission.ui.sreen.cart
+package com.eve.jetsubmission.ui.screen.cart
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

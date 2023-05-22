@@ -1,4 +1,4 @@
-package com.eve.jetsubmission.ui.sreen.detail
+package com.eve.jetsubmission.ui.screen.detail
 
 import android.util.Log
 import androidx.annotation.DrawableRes

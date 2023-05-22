@@ -3,9 +3,9 @@ package com.eve.jetsubmission
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import com.eve.jetsubmission.data.ProductRepository
-import com.eve.jetsubmission.ui.sreen.cart.CartViewModel
-import com.eve.jetsubmission.ui.sreen.detail.DetailViewModel
-import com.eve.jetsubmission.ui.sreen.product.ProductViewModel
+import com.eve.jetsubmission.ui.screen.cart.CartViewModel
+import com.eve.jetsubmission.ui.screen.detail.DetailViewModel
+import com.eve.jetsubmission.ui.screen.product.ProductViewModel
 
 class ViewModelFactory(private val repository: ProductRepository) :
     ViewModelProvider.NewInstanceFactory() {
